@@ -1,9 +1,9 @@
-#Tarea 01 - Aspectos
-<h3>Integrantes grupo 4:<\h3>
+<h1>Tarea 01 - Aspectos
+<h2>Integrantes grupo 4:
 <ul>
-<li>Steven Rivera<\li>
-<li>Xavier Lopez<\li>
-<li>Rommel Zamora<\li>
-<li>Joel Flores<\li>
+<li>Steven Rivera
+<li>Xavier Lopez
+<li>Rommel Zamora
+<li>Joel Flores
 <\ul>
 
