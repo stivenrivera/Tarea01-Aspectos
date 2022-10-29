@@ -4,6 +4,6 @@
 <li>Steven Rivera</li>
 <li>Xavier Lopez</li>
 <li>Rommel Zamora</li>
-<li>Joel Flores</li>
+<li>Guido Flores</li>
 </ul>
 
