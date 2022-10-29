@@ -18,6 +18,7 @@ import java.awt.event.ActionEvent;
 
 public class ventana extends JFrame {
 
+	private Notificacion notif= new Notificacion();
 	private JPanel contentPane;
 	private JButton boton1;
 
@@ -88,6 +89,7 @@ public class ventana extends JFrame {
 		b.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				contentPane.setBackground(c);
+				notif.enviarNotificacion(texto, b.getText(), c.toString());
 				System.out.println(texto);
 			}
 		});
